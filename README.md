@@ -50,17 +50,15 @@ It helps you quickly fill in the registration page by:
 ```bash
 python main.py
 ```
+
+## 📂 Project Structure
 ```bash
-📂 Project Structure
-bash
-Kopiera
-Redigera
-.
 ├── main.py              # Main script
 ├── account_details.txt  # Generated accounts (auto-created)
 ├── README.md            # This documentation
 ```
-⚠️ Disclaimer
+
+## ⚠️ Disclaimer
 This tool is for educational and personal testing purposes only.
 Using fake or disposable data to create accounts may violate Epic Games’ Terms of Service.
 Use responsibly.
