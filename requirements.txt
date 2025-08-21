@@ -1,1 +1,4 @@
-requests
+# Requirements for Epic Account Generator
+# Works with Python 3.10+
+# All modules are from the Python standard library.
+# On Linux/macOS, install tkinter separately if needed.
